@@ -1,0 +1,29 @@
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\bin\Debug\DNAsequencer.exe.config
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.vbprojResolveAssemblyReference.cache
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.MainForm.resources
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.Resources.resources
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.vbproj.GenerateResource.Cache
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.xml
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\bin\Debug\DNAsequencer.exe
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\bin\Debug\DNAsequencer.pdb
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\bin\Debug\DNAsequencer.xml
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.exe
+C:\Users\kamran\AppData\Local\Temporary Projects\DNAsequencer\obj\Debug\DNAsequencer.pdb
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\DNAsequencer.exe.config
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\DNAsequencer.exe
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\DNAsequencer.pdb
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\DNAsequencer.xml
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.vbprojResolveAssemblyReference.cache
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.Resources.resources
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.vbproj.GenerateResource.Cache
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.exe
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.xml
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.pdb
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\Neo4j.Driver.dll
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\Neo4jClient.dll
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\Neo4jClient.pdb
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\Neo4jClient.xml
+D:\Projects\DNAsequencer\DNAsequencer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.MainForm.resources
+D:\Projects\DNAsequencer\DNAsequencer\obj\Debug\DNAsequencer.Form2.resources
